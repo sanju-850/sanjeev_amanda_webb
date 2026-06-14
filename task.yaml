@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, image, audio, document]
+l1: creative_media
+l2: social_media_content_audit
+task_type: multimodal_reconciliation
+required_apis: [instagram, spotify]
+distractor_apis: [linkedin, reddit, twitch]

@@ -1,0 +1,14 @@
+{
+  "test_instagram_inventory_read": 5,
+  "test_instagram_inventory_candidates": 3,
+  "test_instagram_top_candidate_metrics": 5,
+  "test_spotify_playlists_read": 3,
+  "test_spotify_current_tracks_read": 5,
+  "test_spotify_current_playlist": 3,
+  "test_spotify_approved_track": 5,
+  "test_instagram_social_mutation": -3,
+  "test_spotify_mutation": -1,
+  "test_linkedin_distractor": -1,
+  "test_reddit_distractor": -1,
+  "test_twitch_distractor": -1
+}

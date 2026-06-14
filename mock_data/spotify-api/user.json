@@ -1,0 +1,15 @@
+{
+    "id":  "user-amanda-webb",
+    "display_name":  "Amanda Webb",
+    "email":  "amanda.webb@Finthesiss.ai",
+    "country":  "US",
+    "product":  "premium",
+    "followers":  286,
+    "images":  [
+                   {
+                       "url":  "https://spotify.mock/amanda/avatar.jpg",
+                       "width":  300,
+                       "height":  300
+                   }
+               ]
+}
