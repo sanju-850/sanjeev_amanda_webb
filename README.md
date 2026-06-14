@@ -29,7 +29,7 @@ The task evaluates whether an agent can:
 ## Bundle Structure
 
 ```text
-amanda_webb_task_spec/
+sanjeev_amanda_webb
 |-- prompt.txt
 |-- task.yaml
 |-- persona/
@@ -44,14 +44,10 @@ amanda_webb_task_spec/
 |   |-- linkedin-api/
 |   |-- reddit-api/
 |   `-- twitch-api/
-|-- tests/
-|   |-- rubric.json
-|   |-- test_outputs.py
-|   `-- test_weights.json
+|-- rubric.json
+|-- test_outputs.py
+|-- test_weights.json
 |-- golden_steer_flow.md
-|-- artifacts_description.txt
-|-- mock_data_description.md
-`-- QC reports and supporting task-generation files
 ```
 
 ## Grading
